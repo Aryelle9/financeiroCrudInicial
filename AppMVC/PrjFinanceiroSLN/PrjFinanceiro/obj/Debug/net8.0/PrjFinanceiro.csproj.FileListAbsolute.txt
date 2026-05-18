@@ -75,3 +75,15 @@ C:\Users\professor.cetafest\Documents\GitHub2\sistemafinanceiro\AppMVC\PrjFinanc
 C:\Users\professor.cetafest\Documents\GitHub2\sistemafinanceiro\AppMVC\PrjFinanceiroSLN\PrjFinanceiro\obj\Debug\net8.0\PrjFinanceiro.pdb
 C:\Users\professor.cetafest\Documents\GitHub2\sistemafinanceiro\AppMVC\PrjFinanceiroSLN\PrjFinanceiro\obj\Debug\net8.0\PrjFinanceiro.genruntimeconfig.cache
 C:\Users\professor.cetafest\Documents\GitHub2\sistemafinanceiro\AppMVC\PrjFinanceiroSLN\PrjFinanceiro\obj\Debug\net8.0\ref\PrjFinanceiro.dll
+C:\Users\tarde.cetafest\Documents\GitHubARY\financeiroCrudInicial\AppMVC\PrjFinanceiroSLN\PrjFinanceiro\obj\Debug\net8.0\PrjFinanceiro.csproj.AssemblyReference.cache
+C:\Users\tarde.cetafest\Documents\GitHubARY\financeiroCrudInicial\AppMVC\PrjFinanceiroSLN\PrjFinanceiro\obj\Debug\net8.0\PrjFinanceiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarde.cetafest\Documents\GitHubARY\financeiroCrudInicial\AppMVC\PrjFinanceiroSLN\PrjFinanceiro\obj\Debug\net8.0\PrjFinanceiro.AssemblyInfoInputs.cache
+C:\Users\tarde.cetafest\Documents\GitHubARY\financeiroCrudInicial\AppMVC\PrjFinanceiroSLN\PrjFinanceiro\obj\Debug\net8.0\PrjFinanceiro.AssemblyInfo.cs
+C:\Users\tarde.cetafest\Documents\GitHubARY\financeiroCrudInicial\AppMVC\PrjFinanceiroSLN\PrjFinanceiro\obj\Debug\net8.0\PrjFinanceiro.csproj.CoreCompileInputs.cache
+C:\Users\tarde.cetafest\Documents\GitHubARY\financeiroCrudInicial\AppMVC\PrjFinanceiroSLN\PrjFinanceiro\obj\Debug\net8.0\PrjFinanceiro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tarde.cetafest\Documents\GitHubARY\financeiroCrudInicial\AppMVC\PrjFinanceiroSLN\PrjFinanceiro\obj\Debug\net8.0\PrjFinanceiro.RazorAssemblyInfo.cache
+C:\Users\tarde.cetafest\Documents\GitHubARY\financeiroCrudInicial\AppMVC\PrjFinanceiroSLN\PrjFinanceiro\obj\Debug\net8.0\PrjFinanceiro.RazorAssemblyInfo.cs
+C:\Users\tarde.cetafest\Documents\GitHubARY\financeiroCrudInicial\AppMVC\PrjFinanceiroSLN\PrjFinanceiro\obj\Debug\net8.0\PrjFinanceiro.sourcelink.json
+C:\Users\tarde.cetafest\Documents\GitHubARY\financeiroCrudInicial\AppMVC\PrjFinanceiroSLN\PrjFinanceiro\obj\Debug\net8.0\PrjFinanceiro.dll
+C:\Users\tarde.cetafest\Documents\GitHubARY\financeiroCrudInicial\AppMVC\PrjFinanceiroSLN\PrjFinanceiro\obj\Debug\net8.0\refint\PrjFinanceiro.dll
+C:\Users\tarde.cetafest\Documents\GitHubARY\financeiroCrudInicial\AppMVC\PrjFinanceiroSLN\PrjFinanceiro\obj\Debug\net8.0\PrjFinanceiro.pdb
