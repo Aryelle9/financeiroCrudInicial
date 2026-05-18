@@ -10,5 +10,7 @@ namespace PrjFinanceiro.Models
 
         public DbSet<Agencia> Agencia { get; set; }
 
+        public DbSet<Cargo> Cargo { get; set; }
+
     }
 }
