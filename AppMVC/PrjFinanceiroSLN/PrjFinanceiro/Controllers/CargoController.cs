@@ -41,7 +41,7 @@ namespace PrjFinanceiro.Controllers
             if (!string.IsNullOrEmpty(Descricao))
             {
                 _context.Cargo.Add(novaCargo);
-                _context.SaveChanges();
+                  _context.SaveChanges();
                 return RedirectToAction("Index");
             }
 
@@ -65,10 +65,10 @@ namespace PrjFinanceiro.Controllers
 
         // POST: Agencia/Editar
         [HttpPost]
-        public IActionResult Editar(int codigo, string Descricao, string Abreviacao)
+        public IActionResult Editar(int Codigo, string Descricao, string Abreviacao)
         {
             // Busca o registro existente no banco
-            var CargoNoBanco = _context.Cargo.FirstOrDefault(a => a.Codigo == codigo);
+            var CargoNoBanco = _context.Cargo.FirstOrDefault(a => a.Codigo == Codigo);
 
             if (CargoNoBanco != null)
             {

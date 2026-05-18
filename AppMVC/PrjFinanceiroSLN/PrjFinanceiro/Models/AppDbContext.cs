@@ -12,5 +12,6 @@ namespace PrjFinanceiro.Models
 
         public DbSet<Cargo> Cargo { get; set; }
 
+
     }
 }
